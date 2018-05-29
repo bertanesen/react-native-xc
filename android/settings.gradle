@@ -1,0 +1,3 @@
+rootProject.name = 'insReact2'
+
+include ':app'
