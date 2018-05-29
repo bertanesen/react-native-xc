@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Views/RCTView.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/bertanesen/Desktop/insider/insReact2/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/bertanesen/Desktop/insider/insReact2/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/bertanesen/Desktop/insider/insReact2/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h
